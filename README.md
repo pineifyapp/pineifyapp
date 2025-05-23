@@ -11,3 +11,4 @@ You can click the Preview link to take a look at your changes.
 - [Pineify f6s](https://www.f6s.com/software/pineify).
 - [Pineify Tech Stack](https://ramen.tools/@Pineify).
 - [Bento](https://bento.me/pineify).
+- [Pineify climate](https://climate.stripe.com/meWanu).
